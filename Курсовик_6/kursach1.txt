@@ -1,0 +1,40 @@
+1|RAMZES666|Свободный агент|Россия|1585956|785|73|
+2|iLTW|Свободный агент|Россия|76836|1851|11|
+3|Nightfall|Virtus.pro|Россия|122097|939|27|
+4|Dendi|B8|Украина|381872|885|38|
+5|Topson|OG|Финляндия|5513607|478|93|
+6|gpk|Virtus.pro|Россия|106002|1709|17|
+7|Miracle|Team Nigma|Иордания|4788991|482|82|
+8|SumaiL|Свободный агент|Пакистан|3685086|1139|64|
+9|Iceberg|Natus Vincere|Украина|205277|1014|23|
+10|Solo|NoTechies|Россия|1629302|509|77|
+11|Cooman|HellRaisers|Украина|75882|1431|12|
+12|V-Tune|Natus Vincere|Украина|75171|968|17|
+13|Zayac|NoTechies|Кыргыстан|189840|1112|23|
+14|Kingslayer|Virtus.pro|Россия|149632|985|24|
+15|lilmealone|HellRaisers|Украина|875337|1044|52|
+16|No[o]ne|AS Monaco Gambit|Украина|1608497|723|74|
+17|fng|Alliance|Беларусь|521078|969|42|
+18|youngG|HellRaisers|Беларусь|25322|879|13|
+19|9pasha|Prosti Esli|Россия|1639844|759|70|
+20|Pikachu|Team Unique|Украина|28529|849|13|
+21|Cristallize|NoTechies|Украина|321250|413|33|
+22|fn|Свободный агент|Украина|461270|1230|50|
+23|Abed|Evil Geniuses|Филиппины|453936|1279|48|
+24|Arteezy|Evil Geniuses|Канада|2200706|442|78|
+25|Saksa|OG|Македония|983572|970|53|
+26|Nikobaby|Alliance|Болгария|280759|1101|26|
+27|s4|Alliance|Швеция|10873629|1971|83|
+28|Nix|Свободный агент|Россия|29150|522|24|
+29|SoNNeikO|AS Monaco Gambit|Россия|339173|1137|23|
+30|MagicaL|Свободный агент|Украина|232790|564|34|
+31|MATUMBAMAN|Team Secret|Финляндия|3899751|803|84|
+32|DyrachYO|Winstrike Team|Россия|10400|803|10|
+33|w33|Team Nigma|Румыния|2186705|873|76|
+34|MidOne|OG|Малайзия|1817425|823|69|
+35|Fly|Evil Geniuses|Израиль|2338725|634|78|
+36|sobad|Team Spirit|Беларусь|16700|1177|8|
+37|Daxak|Prosti Esli|Россия|102550|743|33|
+38|Immersion|AS Monaco Gambit|Россия|153605|1521|29|
+39|dream'|AS Monaco Gambit|Кыргыстан|116010|1078|30|
+40|Save-|Virtus.pro|Молдавия|122097|956|32|
